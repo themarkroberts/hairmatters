@@ -15150,6 +15150,10 @@ div.wp-container-17 a {
   text-decoration: none;
 }
 
+.modal-footer {
+  justify-content: center !important;
+}
+
 .has-blue-color,
 .has-blue-color:visited {
   color: #0d6efd;
